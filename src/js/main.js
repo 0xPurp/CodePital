@@ -9,7 +9,7 @@ console.log(`les patients : `, patients);
 
 
 patients.forEach(patient => {
-    console.log(`${patient.nom}`)
+    console.log(`Miau`)
     docteur.patientIn(patient)
     docteur.diagnostiquer(patient)
     patient.payer(docteur, 50)

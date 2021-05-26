@@ -88,6 +88,7 @@ let pharmacie = {
     }
 }
 
+
 let cimetiere = {
     nom: "cimetiere",
     tombes: []
